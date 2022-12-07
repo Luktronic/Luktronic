@@ -13,7 +13,7 @@ I'm a computer science student from Austria. I'm well versed in the Java ecosyst
   - 💾 EF Core
   - 🌐ASP.NET
 - ⚙ C++
-  - 🎥 OpemGL/GLFW
+  - 🎥 OpenGL/GLFW
 - ☁ Web
   - 💚 Vue.js
   - 💀 HTML/CSS
