@@ -1,4 +1,6 @@
-## Hi there 👋
+<div align="center">
+   <h1>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/></h1>
+</div>
 
 I'm a computer scientist from Vienna, Austria. I'm well versed in the Java ecosystem, but I also have lots of experience in other languages such as Kotlin, C#, JavaScript/TypeScript with Vue and React, C++ or Rust.
 
@@ -14,7 +16,10 @@ I'm a computer scientist from Vienna, Austria. I'm well versed in the Java ecosy
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luktronic&layout=compact&langs_count=8&card_width=320&theme=catppuccin_mocha" />
 </a>
 
-## 🎓**My skillset includes:**
+<div align="center">
+  <br>
+  <h2>🎓 My skillset includes:
+</div>
 
 - ☕ Java
   - 🌱 Spring Boot
@@ -40,17 +45,27 @@ I'm a computer scientist from Vienna, Austria. I'm well versed in the Java ecosy
   - 🛠 Various other CI/CD tools (Jenkins, ELK Stack, Grafana, ...)
   - ✅ Advanced testing tools (Selenium, Cucumber, ...)
 
-## 👔 **I'm currently working on:**
+<div align="center">
+  <br>
+  <h2>👔 Currently working on</h2>
+</div>
 - 🏠 A dashboard app for shared apartments, with features like Kanban-style TODO lists or shopping lists made in Rust and React ([repo](https://github.com/Team-KekX/Long-Game)).
 - 🌱 Arda's Legends, an open source realtime-strategy game running on the web as a Spring Boot server ([repo](https://github.com/Team-KekX/Ardas-Legends-App))
 
-## ✅ **Finished projects:**
+<div align="center">
+  <br>
+  <h2>✅ Finished projects</h2>
+</div>
 - 🧠 Diploma Project in Kotlin
 - 🎥 Scientific paper about rendering with OpenGL in C++ ([repo](https://github.com/Luktronic/OpenGL-Scientific-Paper))
 - 🎮 A 3D roguelike game where you fight off waves of enemies, developed in Unity, made for the HTL Spengergasse GameJam 2023
 - 🌍 A Minecraft-inspired block-based game, developed in Unity, made as a school project.
 
-## My best contributions
+<div align="center">
+  <br>
+  <h2>My best contributions</h2>
+</div>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luktronic&repo=opengl-scientific-paper&theme=catppuccin_mocha" />
 </a>
